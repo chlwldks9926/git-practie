@@ -1,1 +1,1 @@
-# git-practie
+# Git Practice
