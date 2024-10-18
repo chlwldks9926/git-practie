@@ -1,1 +1,2 @@
 This is file3.
+Update content in file3.
